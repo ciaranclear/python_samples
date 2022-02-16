@@ -1,0 +1,36 @@
+2021-07-04 16:26:57,771:DEBUG:num1:5 added to num2:0 result5
+2021-07-04 16:26:57,771:DEBUG:num1:5 subtracted from num2:0 result5
+2021-07-04 16:26:57,771:DEBUG:num1:5 multiplied by num2:0 result0
+2021-07-04 16:26:57,771:ERROR:Tried to divide 5 by zero
+Traceback (most recent call last):
+  File "C:\python\exercises\logging\main.py", line 42, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2021-07-04 16:26:57,772:DEBUG:num1:5 divided by num2:0 resultNone
+2021-07-05 04:51:15,119:DEBUG:num1:5 added to num2:0 result5
+2021-07-05 04:51:15,119:DEBUG:num1:5 subtracted from num2:0 result5
+2021-07-05 04:51:15,119:DEBUG:num1:5 multiplied by num2:0 result0
+2021-07-05 04:51:15,119:ERROR:Tried to divide 5 by zero
+Traceback (most recent call last):
+  File "C:\python\exercises\logging\main.py", line 42, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2021-07-05 04:51:15,119:DEBUG:num1:5 divided by num2:0 resultNone
+2021-07-05 04:51:30,303:DEBUG:num1:5 added to num2:0 result5
+2021-07-05 04:51:30,303:DEBUG:num1:5 subtracted from num2:0 result5
+2021-07-05 04:51:30,303:DEBUG:num1:5 multiplied by num2:0 result0
+2021-07-05 04:51:30,303:ERROR:Tried to divide 5 by zero
+Traceback (most recent call last):
+  File "C:\python\exercises\logging\main.py", line 42, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2021-07-05 04:51:30,303:DEBUG:num1:5 divided by num2:0 resultNone
+2021-07-05 04:51:57,557:DEBUG:num1:5 added to num2:0 result5
+2021-07-05 04:51:57,557:DEBUG:num1:5 subtracted from num2:0 result5
+2021-07-05 04:51:57,557:DEBUG:num1:5 multiplied by num2:0 result0
+2021-07-05 04:51:57,557:ERROR:Tried to divide 5 by zero
+Traceback (most recent call last):
+  File "C:\python\exercises\logging\main.py", line 42, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2021-07-05 04:51:57,557:DEBUG:num1:5 divided by num2:0 resultNone
