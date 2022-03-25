@@ -1,6 +1,7 @@
 
 import random
 
+# a byte is an 8 bit integer value in range 0 - 255
 
 def randomBytes(size):
     bytes = []

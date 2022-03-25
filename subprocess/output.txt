@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x  3 ciaran ciaran 4096 Mar 25 02:13 .
+drwxrwxr-x 27 ciaran ciaran 4096 Mar 25 00:47 ..
+-rw-rw-r--  1 ciaran ciaran    0 Mar 25 02:14 output.txt
+drwxrwxr-x  2 ciaran ciaran 4096 Mar 25 01:19 __pycache__
+-rw-rw-r--  1 ciaran ciaran 1927 Mar 25 02:14 subprocess_example.py
+-rw-rw-r--  1 ciaran ciaran 1024 Mar 25 02:13 .subprocess_example.py.swp
+-rw-rw-r--  1 ciaran ciaran   28 Mar 25 02:04 test.txt
